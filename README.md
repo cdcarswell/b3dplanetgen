@@ -16,7 +16,7 @@ These resources are stored in a single .blend file that contains the necessary o
 
 ## Installation
 
-Go to the [__Releases__](https://github.com/cdcarswell/b3dplanetgen/releases) page and download one of the latest versions. *Note: there are currently no releases yet*
+Go to the [__Releases__](https://github.com/cdcarswell/b3dplanetgen/releases) page and download one of the latest versions.
 
 Once you have downloaded the .blend file, simply open it with Blender v2.78 or later.
 

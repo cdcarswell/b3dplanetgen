@@ -11,6 +11,7 @@ These resources are stored in a single .blend file that contains the necessary o
 **[Usage](#usage)**<br>
 **[Details](#details)**<br>
 **[Compatibility](#compatibility)**<br>
+**[Finished Works](#Works)**<br>
 **[Feedback, License](#feedback)**<br>
 
 ## Installation
@@ -21,7 +22,7 @@ Once you have downloaded the .blend file, simply open it with Blender v2.78 or l
 
 ## Usage
 
-This is a quick usage guide to get you started with b3dplanetgen. Please check the [wiki (in development)](https://github.com/cdcarswell/b3dplanetgen/wiki) for more in-depth information.
+This is a quick usage guide to get you started with b3dplanetgen. Please check the [tutorial](https://github.com/cdcarswell/b3dplanetgen/wiki/Tutorial) on how to use this resource, or check the [wiki](https://github.com/cdcarswell/b3dplanetgen/wiki) for more in-depth information.
 
 1. Select in the *Outliner* an object to modify (Planet Surface, Planet Clouds, or Planet Atmosphere).
 
@@ -49,6 +50,16 @@ Please feel free to comment and report issues, comments, bugs, and any feature r
 
 [Report issue](https://github.com/cdcarswell/b3dplanetgen/issues).
 
+You can also reach me on Twitter at https://twitter.com/thecdcarswell
+
+## Works
+If you managed to create something interesting or cool with this resource, please feel free to share it! Be sure to mention "b3dplanetgen" or use the hashtag #b3dplanetgen so people can find it easily.
+
 ## License
 
-Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+This project and all resources inside it is licensed under Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/
+
+If you distribute or modify this project, remember to provide proper attribution by mentioning me, the original author (CD Carswell).
+
+For rendered works created with this resource, I highly recommend you mention somewhere (in post body, video description, etc.) that you used this resource (b3dplanetgen) in the creation of the render. It helps get the word out, and if you found the resource useful, it'll give others a chance to find and use it as well.
+If you really don't want to provide attribution for your rendered works, you don't absolutely have to (but please do).

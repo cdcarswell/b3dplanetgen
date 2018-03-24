@@ -27,7 +27,7 @@ This is a quick usage guide to get you started with b3dplanetgen. Please check t
 
 ![planetobjects](https://cdcarswell.files.wordpress.com/2018/03/planetlayers.png)
 
-2. Go to the *Material editor* and you will find a node group with various settings allowing for the customizable of the planetary object.
+2. Go to the *Node Editor* and you will find a node group with various settings allowing for the customizable of the planetary object.
 
 ![planetshader](https://cdcarswell.files.wordpress.com/2018/03/b3dplanetgen.png?w=370&h=)
 
